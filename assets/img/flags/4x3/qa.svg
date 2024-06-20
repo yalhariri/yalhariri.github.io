@@ -1,0 +1,13 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;">
+
+ <marker style="vector-effect: non-scaling-stroke;" markerWidth="30" markerHeight="30" id="us-a">
+  <path style="vector-effect: non-scaling-stroke;" id="svg_1" d="m15,0l9.3,28.6l-24.3,-17.6l30,0l-24.3,17.6" fill="#fff"/>
+ </marker>
+ <g>
+  <title>Layer 1</title>
+  <g>
+   <path fill="#8a1538" d="m-195.99996,2.33559l1007.99992,0l0,511.32881l-1007.99992,0"/>
+   <path fill="#fff" d="m99.68001,513.6644l-295.67998,0l0,-511.32881l295.67998,0l80.63999,28.40716l-80.63999,28.40716l80.63999,28.40716l-80.63999,28.40716l80.63999,28.40716l-80.63999,28.40716l80.63999,28.40716l-80.63999,28.40716l80.63999,28.40716l-80.63999,28.40716l80.63999,28.40716l-80.63999,28.40716l80.63999,28.40716l-80.63999,28.40716l80.63999,28.40716l-80.63999,28.40716l80.63999,28.40716l-80.63999,28.40716z"/>
+  </g>
+ </g>
+</svg>

@@ -3,12 +3,12 @@ layout: default
 ---
 <div class="post">
   <header class="post-header">
-    <h1 class="post-title">
+    <h1 class="post-title" dir={{site.data[site.active_lang].strings.dir}} align={{site.data[site.active_lang].strings.align}}>
       {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
       {% else %}
-        {{ site.title }}
+        {{ page.full_name }}
       {% endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
@@ -24,12 +24,20 @@ layout: default
           {% else %}
             {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
           {% endif %}
-          {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
+          {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
       30vw, 95vw"{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
             cache_bust=true
           %}
+        {% endif %}
+        <!-- Social -->
+        {% if page.social %}
+          <div class="social">
+            <div class="contact-note">{{ site.data[site.active_lang].strings.contact_note }}</div>
+            
+            <div class="contact-icons">{% include social.liquid %}</div>
+          </div>
         {% endif %}
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
@@ -37,11 +45,12 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
-
+    
+    <div class="clearfix" dir={{site.data[site.active_lang].strings.dir}} align={{site.data[site.active_lang].strings.align}}>{{ content }}</div>
     <!-- News -->
+    <div  dir={{site.data[site.active_lang].strings.dir}} align={{site.data[site.active_lang].strings.align}}>
     {% if page.news and site.announcements.enabled %}
-      <h2>
+      <h2  dir={{site.data[site.active_lang].strings.dir}} align={{site.data[site.active_lang].strings.align}}>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">{{ site.data[site.active_lang].strings.news }}</a>
       </h2>
       {% include news.liquid limit=true %}
@@ -62,8 +71,8 @@ layout: default
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
-
-    <!-- Social -->
+    </div>
+    <!-- Social
     {% if page.social %}
       <div class="social">
         <div class="contact-icons">{% include social.liquid %}</div>
@@ -71,5 +80,6 @@ layout: default
         <div class="contact-note">{{ site.data[site.active_lang].strings.contact_note }}</div>
       </div>
     {% endif %}
+    -->
   </article>
 </div>

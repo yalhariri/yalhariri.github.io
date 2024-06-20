@@ -1,0 +1,109 @@
+blog:
+  navigation_title: blog
+  full_name: يوسف الحريري
+title: يوسف الحريري
+first_name: يوسف
+last_name: الحريري
+categories:
+  fun: diversão
+  work: العمل
+contact_note: يمكنكم الاتصال بي عبر البريد الإلكتروني أو عبر وسائل التواصل الاجتماعي.
+footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+latest_posts: آخر المنشورات
+news: أخبار
+selected_publications: آخر الأبحاث
+site_description: موقع الدكتور يوسف الحريري.
+archive_category: أرشيف المشاركات من هذه الفئة
+archive_tag: أرشيف المشاركات مع هذا الوسم
+archive_year: أرشيف المشاركات من هذا العام
+related_posts:
+  description: "فيما يلي بعض المقالات ذات الصلة التي قد ترغب في قراءتها:"
+  title: المزيد من المقالات ذات الصلة؟
+dir: rtl
+align: right
+references: المعرفين
+months:
+  long:
+    january: يناير
+    february: فبراير
+    march: مارس
+    april: أبريل
+    may: مايو
+    june: يونيو
+    july: يوليو
+    august: أغسطس
+    september: سبتمبر
+    october: أكتوبر
+    november: نوفمبر
+    december: ديسمبر
+  short:
+    january: يناير
+    february: فبراير
+    march: مارس
+    april: أبريل
+    may: مايو
+    june: يونيو
+    july: يوليو
+    august: أغسطس
+    september: سبتمبر
+    october: أكتوبر
+    november: نوفمبر
+    december: ديسمبر
+no_news: لا يوجد أخبار حالياً...
+pagination:
+  newer: الأحدث
+  older: الأقدم
+  page: الصفحة
+cv:
+  address: العنوان
+  area: المنطقة
+  awarder: المانح
+  awards: الجوائز والتكريمات
+  basics: معلومات عامة
+  certificates: الشهادات والبرامج التعليمية
+  city: المدينة
+  countryCode: رمز البلد
+  courses: الدورات
+  date: التاريخ
+  education: التعليم
+  email: البريد الإلكتروني
+  endDate: تاريخ الانتهاء
+  fluency: الإجادة
+  highlights: النقاط البارزة
+  image: الصورة
+  institution: المؤسسة
+  interests: الاهتمامات
+  issuer: الجهة المانحة
+  keywords: Palavras chave
+  label: العنوان
+  language: اللغة
+  languages: اللغات
+  level: المستوى
+  location: الموقع
+  name: الاسم
+  network: الشبكة
+  organization: المنظمة
+  phone: الهاتف
+  position: المنصب
+  postalCode: الرمز البريدي
+  profiles: الحسابات
+  projects: المشاريع
+  publications: الأبحاث المنشورة
+  publisher: الناشر
+  reference: المرجع
+  references: المعرفين
+  region: المنطقة
+  releaseDate: تاريخ النشر
+  score: الدرجة
+  skills: المهارات
+  startDate: تاريخ البدء
+  studyType: نوع الدراسة
+  summary: الملخص
+  table_of_contents: جدول المحتويات
+  title: العنوان
+  url: الرابط
+  username: اسم المستخدم
+  volunteer: التطوع
+  work: الخبرات العملية

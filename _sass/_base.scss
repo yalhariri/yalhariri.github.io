@@ -55,6 +55,11 @@ table.table a {
   }
 }
 
+figure,
+img {
+  max-width: 90vw;
+}
+
 blockquote {
   background: var(--global-bg-color);
   border-left: 5px solid var(--global-theme-color);
@@ -159,17 +164,22 @@ ul.task-list input[type="checkbox"] {
 .card {
   background-color: var(--global-card-bg-color);
 
-  .card-img {
+  img {
     width: 100%;
-    padding-top: 1.25rem;
   }
 
   .card-title {
     color: var(--global-text-color);
   }
 
-  .card-body {
-    padding: 1.25rem 1.25rem 1.25rem 1.25rem;
+  .card-item {
+    width: auto;
+    margin-bottom: 10px;
+
+    .row {
+      display: flex;
+      align-items: center;
+    }
   }
 }
 
@@ -357,8 +367,7 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-#light-toggle,
-#search-toggle {
+#light-toggle {
   padding: 0;
   border: 0;
   background-color: inherit;
@@ -375,7 +384,7 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
       i::before {
@@ -484,11 +493,6 @@ footer.sticky-bottom {
   background-color: transparent;
   border: none;
   color: var(--global-text-color);
-}
-
-.date-column {
-  width: 75px;
-  transform: translateX(-15px) translateY(-5px);
 }
 
 // Repositories
@@ -626,8 +630,14 @@ footer.sticky-bottom {
     }
   }
 
-  .col {
-    padding-bottom: 1rem;
+  .card-item {
+    width: auto;
+    margin-bottom: 10px;
+
+    .row {
+      display: flex;
+      align-items: center;
+    }
   }
 
   .grid-sizer,
@@ -672,6 +682,7 @@ footer.sticky-bottom {
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
+    margin-bottom: -2rem;
     text-align: right;
   }
 
@@ -684,15 +695,20 @@ footer.sticky-bottom {
       margin-bottom: 1rem;
 
       .preview {
+        width: 100%;
+        min-width: 80px;
+        max-width: 200px;
       }
 
       .abbr {
+        height: 2rem;
         margin-bottom: 0.5rem;
 
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
-          margin-bottom: 0.5rem;
+          padding-left: 1rem;
+          padding-right: 1rem;
 
           a {
             color: white;
@@ -755,9 +771,6 @@ footer.sticky-bottom {
             border-color: var(--global-theme-color);
           }
         }
-        a.award.btn {
-          border-color: var(--global-highlight-color);
-        }
       }
 
       .badges {
@@ -814,12 +827,6 @@ footer.sticky-bottom {
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
       }
-    }
-    div.award.hidden {
-      border: dashed 1px var(--global-bg-color);
-    }
-    div.award.hidden.open {
-      border-color: var(--global-highlight-color);
     }
   }
 }
@@ -1073,6 +1080,10 @@ nav[data-toggle="toc"] {
     }
   }
 
+  .card-item {
+    margin-bottom: 10px;
+  }
+
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
@@ -1108,67 +1119,4 @@ swiper-container {
   --swiper-navigation-color: var(--global-theme-color);
   --swiper-pagination-color: var(--global-theme-color);
   --swiper-pagination-bullet-inactive-color: var(--global-text-color);
-}
-
-.ps-root {
-  .ps-algorithm {
-    margin: 0.8em 0;
-    border-top: 3px solid var(--global-text-color);
-    border-bottom: 2px solid var(--global-text-color);
-  }
-
-  .ps-algorithm.with-caption > .ps-line:first-child {
-    border-bottom: 2px solid var(--global-text-color);
-  }
-}
-
-// Ninja Keys
-// for more options, check https://github.com/ssleptsov/ninja-keys?tab=readme-ov-file#css-variables
-ninja-keys {
-  --ninja-accent-color: var(--global-theme-color);
-  --ninja-icon-size: 0px;
-  --ninja-modal-background: var(--global-bg-color);
-  --ninja-z-index: 1031;
-
-  // modal footer and its components were extracted from assets/js/search/base-styles.min.js
-  .modal-footer {
-    padding: 0.5em 1em;
-    display: flex;
-    /* font-size: 0.75em; */
-    border-top: 1px solid var(--ninja-secondary-background-color);
-    color: var(--ninja-secondary-text-color);
-  }
-
-  .modal-footer .help {
-    display: flex;
-    margin-right: 1em;
-    align-items: center;
-    font-size: 0.75em;
-  }
-
-  .ninja-examplekey {
-    background: var(--ninja-secondary-background-color);
-    padding: 0.06em 0.25em;
-    border-radius: var(--ninja-key-border-radius);
-    color: var(--ninja-secondary-text-color);
-    width: 1em;
-    height: 1em;
-    margin-right: 0.5em;
-    font-size: 1.25em;
-    fill: currentColor;
-  }
-  .ninja-examplekey.esc {
-    width: auto;
-    height: auto;
-    font-size: 1.1em;
-  }
-  .ninja-examplekey.backspace {
-    opacity: 0.7;
-  }
-}
-ninja-keys::part(ninja-input) {
-  color: var(--ninja-selected-text-color);
-}
-ninja-keys::part(ninja-input-wrapper) {
-  background: var(--global-bg-color);
 }

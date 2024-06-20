@@ -1,13 +1,5 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - yalhariri
 
 github_repos:
-  - george-gca/multi-language-al-folio
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - yalhariri/yalhariri.github.io

@@ -1,0 +1,103 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Youssef Al Hariri
+    #- name: Date of Birth
+    #  value: 14th March 1879
+    - name: Languages
+      value: English, Arabic
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of Edinburgh, Edinburgh, UK
+      year: 2023
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: MSc AI
+      institution: University of Edinburgh, Edinburgh, UK
+      year: 2018
+      
+    - title: BSc Computer Engineering
+      institution: Qatar University, Doha, Qatar
+      year: 2012-2017
+      
+- title: Experience
+  type: time_table
+  contents:
+    - title: Univeristy Teacher, TTDS
+      institution: School of Informatics, University of Edinburgh, Edinburgh, UK
+      year: 2024-now
+      
+    - title: Research Associate
+      institution: School of Informatics, University of Edinburgh, Edinburgh, UK
+      year: 2022-2024
+
+    - title: Research Fellow
+      institution: School of Scoial and Political Science, University of Edinburgh, Edinburgh, UK
+      year: 2022-2022
+
+    - title: Research Assistant
+      institution: School of Informatics, University of Edinburgh, Edinburgh, UK
+      year: 2020 - 2022
+
+    - title: Teaching Assistant
+      institution: School of Informatics, University of Edinburgh, Edinburgh, UK
+      year: 2018 - 2022
+
+
+#- title: Open Source Projects
+#  type: time_table
+  # contents:
+  #   - title: <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>
+  #     year: 2023-now
+  #     description: A fork of al-folio theme with support for multiple languages.
+
+  #   - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+  #     year: 2015-now
+  #     description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Computational Social Science.
+      items:
+        - Qualitative and quantitative analysis methods.
+        - Text analysis and NLP.
+        - Online social dynamics studies.
+        - The evolvement of religious, social, and political online behaviors.
+        - Social and political research.
+    - title: Data Science and Data Analysis.
+      items:
+        - Statistical data analysis, 
+        - Sensitive data handling, 
+        - Data indexing and processing,
+        - Solr and MongoDB.
+    - title: Social Network Analysis and Network Visualisations.
+      items:
+        - Networks analysis, 
+        - Communities detection,
+        - Data visualization.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
