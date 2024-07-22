@@ -71,4 +71,4 @@ The output should include the folder, where (venv) is the name of the virtual en
 ./venv/bin/python
 ```
 
-By reaching this, we have successfully created a virtual environment with specific version of Python without having it installed in the system, and without having the root access priviligies to install that version of Python in the system.
+By reaching this, we have successfully created a virtual environment with a specific version of Python without having it installed in the system and without having the root access privileges to install that version of Python in the system.
