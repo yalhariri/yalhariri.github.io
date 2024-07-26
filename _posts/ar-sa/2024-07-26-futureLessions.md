@@ -1,7 +1,7 @@
 ---
 layout: post
 title: الخسارة ... خير الدروس لمستقبل أفضل
-date: 2024-07-22 12:00:00
+date: 2024-07-26 12:00:00
 description: الخسارة ... خير الدروس لمستقبل أفضل
 tags: Self-reflection  
 categories: #Self-reflection, Habits
