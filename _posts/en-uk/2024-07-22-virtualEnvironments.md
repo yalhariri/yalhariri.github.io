@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adding Virtual Environment
-date: 2024-06-22 12:00:00
+date: 2024-07-22 12:00:00
 description: Adding virtual environment with specific version of Python.
 tags: Virtual environments 
 categories: #Virtual environments 
