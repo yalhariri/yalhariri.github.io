@@ -1,7 +1,7 @@
 ---
 layout: post
 title: إضافة Virtual Environment
-date: 2024-06-22 12:00:00
+date: 2024-07-22 12:00:00
 description: إضافة بيئة افتراضية إلى النظام باستخدام إصدارة خاصة من Python.
 tags: Virtual environments 
 categories: #Virtual environments 
