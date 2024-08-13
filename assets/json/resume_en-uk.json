@@ -142,8 +142,24 @@
   "publications": [
     {
       
+      "name": "SMASH at AraFinNLP2024: Benchmarking Arabic BERT Models on the Intent Detection",
+      "authors": "Al Hariri, Y., Abu Farha, Ibrahim",
+      "publisher": "Association for Computational Linguistics",
+      "releaseDate": "2024-08-13",
+      "url": "https://aclanthology.org/2024.arabicnlp-1.35.pdf",
+      "summary": ""
+    },{
+      
+      "name": "SMASH at StanceEval 2024: Prompt Engineering LLMs for Arabic Stance Detection",
+      "authors": "Al Hariri, Y., Abu Farha, Ibrahim",
+      "publisher": "Association for Computational Linguistics",
+      "releaseDate": "2024-08-13",
+      "url": "https://aclanthology.org/2024.arabicnlp-1.92.pdf",
+      "summary": ""
+    },{
+      
       "name": "Sustainability tweeting triumphs during the COP events: analyzing environmental, social, and governance (ESG) communication on Twitter",
-      "authors": "El Alfy, A., Quigley, J., Tang, L., Al Haririr, Y., & Weber, O. ",
+      "authors": "El Alfy, A., Quigley, J., Tang, L., Al Hariri, Y., & Weber, O. ",
       "publisher": "Journal of Asia Business Studies",
       "releaseDate": "2024-03-05",
       "url": "https://pureportal.strath.ac.uk/en/publications/sustainability-tweeting-triumphs-during-the-cop-events-analyzing-",
