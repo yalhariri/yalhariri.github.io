@@ -3,7 +3,7 @@ layout: post
 title: Arab societies in Western-based research studies.. Unacquaintance or Disregarding?
 
 date: 2024-09-27 12:00:00
-description: title: Arab societies in Western-based research studies.. Unacquaintance or Disregarding?
+description: Arab societies in Western-based research studies.. Unacquaintance or Disregarding?
 tags: Family, Communities, Relationships
 categories: #Family, Communities, Relationships, Islam
 thumbnail:
