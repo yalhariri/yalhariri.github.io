@@ -177,20 +177,27 @@
   ],
   "publications": [
     {
-      
-      "name": "SMASH at AraFinNLP2024: Benchmarking Arabic BERT Models on the Intent Detection",
-      "authors": "Al Hariri, Y., Abu Farha, Ibrahim",
-      "publisher": "Association for Computational Linguistics",
-      "releaseDate": "2024-08-13",
-      "url": "https://aclanthology.org/2024.arabicnlp-1.35.pdf",
+      "name": "TwiXplorer: An Interactive Tool for Narrative Detection and Analysis in Historic Twitter Data",
+      "authors": "Al Hariri, Y., Chausson, S., Ross, B., and Magdy, W.",
+      "publisher": "ACM, CSCW",
+      "releaseDate": "2024-11-09",
+      "url": "https://www.research.ed.ac.uk/en/publications/twixplorer-an-interactive-tool-for-narrative-detection-and-analys",
       "summary": ""
     },{
       
       "name": "SMASH at StanceEval 2024: Prompt Engineering LLMs for Arabic Stance Detection",
-      "authors": "Al Hariri, Y., Abu Farha, Ibrahim",
+      "authors": "Al Hariri Y. & Abu Farha I.",
       "publisher": "Association for Computational Linguistics",
-      "releaseDate": "2024-08-13",
-      "url": "https://aclanthology.org/2024.arabicnlp-1.92.pdf",
+      "releaseDate": "2024-08-05",
+      "url": "https://aclanthology.org/2024.arabicnlp-1.92/",
+      "summary": ""
+    },{
+      
+      "name": "SMASH at AraFinNLP2024: Benchmarking Arabic BERT Models on the Intent Detection",
+      "authors": "Al Hariri Y. & Abu Farha I.",
+      "publisher": "Association for Computational Linguistics",
+      "releaseDate": "2024-08-05",
+      "url": "https://aclanthology.org/2024.arabicnlp-1.35/",
       "summary": ""
     },{
       
