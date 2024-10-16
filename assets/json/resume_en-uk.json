@@ -25,11 +25,11 @@
   "work": [
     {
       "name": "School of Informactics, University of Edinburgh",
-      "position": "Research Associate and Universtiy Teacher",
+      "position": "Postdoctoral Research Associate (PDRA)",
       "url": "https://informatics.ed.ac.uk/",
-      "startDate": "2022-08-01",
-      "endDate": "2024-02-01",
-      "summary": "",
+      "startDate": "2024-08-01",
+      "endDate": "",
+      "summary": "Project: Finding Adversary Narratives: Topic and Momentum (FANToM). \n To extend the features of the proposed tool to combine further state-of-the-art AI techniques to model and analyse the narratives of user interactions.",
       "highlights": ["Computational Social Science", "Data Science", "NLP"]
     },
     {
@@ -37,9 +37,45 @@
       "position": "University Teacher",
       "url": "https://informatics.ed.ac.uk/",
       "startDate": "2024-02-01",
-      "endDate": "",
-      "summary": "",
+      "endDate": "2024-08-01",
+      "summary": "Prepared and delivered course material for the Text Technologies for Data Science (TTDS) course to MSc and UG students",
       "highlights": ["Text Technologies for Data Science", "Data Science"]
+    },
+    {
+      "name": "School of Informactics, University of Edinburgh",
+      "position": "Postdoctoral Research Associate (PDRA)",
+      "url": "https://informatics.ed.ac.uk/",
+      "startDate": "2022-08-01",
+      "endDate": "2024-02-01",
+      "summary": "Project 1: Modelling Audience Interactions. Developed a user-friendly tool that combines AI techniques for narrative analysis of user interactions.\n Project 2: We conducted a comparative analysis of human-generated Twitter data with large datasets for sensitive topic responses.",
+      "highlights": ["Computational Social Science", "Data Science", "NLP"]
+    },
+    {
+      "name": "School of Social & Political Science, University of Edinburgh",
+      "position": "Research Fellow",
+      "url": "https://informatics.ed.ac.uk/",
+      "startDate": "2022-01-10",
+      "endDate": "2022-08-01",
+      "summary": "Project: Telling Good Stories. We collected and analysed tweets about compassion and support during the COVID-19 pandemic and compared this social media content with long-term historical published data.",
+      "highlights": ["Computational Social Science", "Twitter", "Data analysis", "Data Science", "NLP"]
+    },
+    {
+      "name": "School of Informactics, University of Edinburgh",
+      "position": "Research Assistant",
+      "url": "https://informatics.ed.ac.uk/",
+      "startDate": "2020-01-10",
+      "endDate": "2021-11-30",
+      "summary": "I worked on the Digital Influence & Intelligence Lab (DIIL) and Huawei Social Media Perception projects.",
+      "highlights": ["Computational Social Science", "Twitter", "Data analysis", "Data Science", "NLP"]
+    },
+    {
+      "name": "School of Informactics, University of Edinburgh",
+      "position": "Teaching Assistant",
+      "url": "https://informatics.ed.ac.uk/",
+      "startDate": "2018-09-10",
+      "endDate": "2022-08-01",
+      "summary": "Co-supervised postgraduate students and assisted in teaching multiple courses, including Text Technologies for Data Science, Accelerated Natural Language Processing (ANLP), and Introduction to Java Programming.",
+      "highlights": ["Teaching", "Supervision", "Teaching Assistant", "Lab demonstration"]
     }
   ],
   "volunteer": [
