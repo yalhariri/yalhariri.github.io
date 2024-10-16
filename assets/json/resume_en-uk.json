@@ -99,7 +99,7 @@
       "startDate": "2018-08-01",
       "endDate": "2022-11-20",
       "score": "",
-      "courses": [""]
+      "courses": ""//[""]
     },{
       "institution": "University of Edinburgh, Edinburgh, UK",
       "location": "Edinburgh, UK",
@@ -109,7 +109,7 @@
       "startDate": "2017-09-01",
       "endDate": "2018-08-31",
       "score": "Discountion",
-      "courses": [""]
+      "courses": ""
     },{
       "institution": "Qatar University, Doha, Qatar",
       "location": "Doha, Qatar",
@@ -119,7 +119,7 @@
       "startDate": "2012-09-01",
       "endDate": "2017-07-20",
       "score": "3.95/4.00",
-      "courses": [""]
+      "courses": ""
     }
   ],
   "awards": [
