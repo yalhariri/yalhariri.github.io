@@ -11,10 +11,6 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Office 3.46</p>
-    <p>Informatics Forum</p>
-    <p>10 Chrichton Street</p>
-    <p>EH8 9AB</p>
     <p>Edinburgh, UK</p>
 
 news: true # includes a list of news items

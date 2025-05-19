@@ -12,10 +12,6 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Office 3.46</p>
-    <p>Informatics Forum</p>
-    <p>10 Chrichton Street</p>
-    <p>EH8 9AB</p>
     <p>Edinburgh, UK</p>
 
 news: true # includes a list of news items
@@ -24,9 +20,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-باحث ما بعد الدكتوراة في قسم المعلوماتية ، كلية العلوم والهندسة ، جامعة ادنبرة.
-أنا عضو في معمل SMASH للأبحاث في مجال الحوسبة الاجتماعية في جامعة ادنبرة.
-إضافة إلى ذلك ، أنا عضو في [Digital Influence & Intelligence Lab (DIIL)](https://diilglobal.org/) و [Neuropolitics Research Lab](https://neuropolitics.sps.ed.ac.uk/).
+مهندس ذكاء اصطناعي لدى [شركة كواليترول](https://www.qualitrolcorp.com/).
+عملت قبل ذلك كباحث ما بعد الدكتوراة في قسم المعلوماتية ، كلية العلوم والهندسة ، جامعة ادنبرة.
+وكنت عضواً في معمل SMASH للأبحاث في مجال الحوسبة الاجتماعية في جامعة ادنبرة.
+إضافة إلى ذلك ، خدمت كعضو في [Digital Influence & Intelligence Lab (DIIL)](https://diilglobal.org/) و [Neuropolitics Research Lab](https://neuropolitics.sps.ed.ac.uk/).
 تشمل اهتمامتي البحثية مجالات الحوسبة الاجتماعية ، دراسة وتحليل الشبكات التقنية والاجتماعية ، وتنقيب البيانات.
 في نوفمبر 2022 أتممت دراسة الدكتوراة في [قسم المعلوماتية](https://informatics.ed.ac.uk) في جامعة ادنبرة.
 
