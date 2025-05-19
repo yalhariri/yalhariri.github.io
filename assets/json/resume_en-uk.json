@@ -99,8 +99,9 @@
       "startDate": "2018-08-01",
       "endDate": "2022-11-20",
       "score": "",
-      "courses": ""//[""]
-    },{
+      "courses": "" //[""]
+    },
+    {
       "institution": "University of Edinburgh, Edinburgh, UK",
       "location": "Edinburgh, UK",
       "url": "https://informatics.ed.ac.uk/",
@@ -110,7 +111,8 @@
       "endDate": "2018-08-31",
       "score": "Discountion",
       "courses": ""
-    },{
+    },
+    {
       "institution": "Qatar University, Doha, Qatar",
       "location": "Doha, Qatar",
       "url": "https://qu.edu.qa/",
@@ -183,24 +185,24 @@
       "releaseDate": "2024-11-09",
       "url": "https://doi.org/10.1145/3678884.3681815",
       "summary": ""
-    },{
-      
+    },
+    {
       "name": "SMASH at StanceEval 2024: Prompt Engineering LLMs for Arabic Stance Detection",
       "authors": "Al Hariri Y. & Abu Farha I.",
       "publisher": "Association for Computational Linguistics",
       "releaseDate": "2024-08-05",
       "url": "https://aclanthology.org/2024.arabicnlp-1.92/",
       "summary": ""
-    },{
-      
+    },
+    {
       "name": "SMASH at AraFinNLP2024: Benchmarking Arabic BERT Models on the Intent Detection",
       "authors": "Al Hariri Y. & Abu Farha I.",
       "publisher": "Association for Computational Linguistics",
       "releaseDate": "2024-08-05",
       "url": "https://aclanthology.org/2024.arabicnlp-1.35/",
       "summary": ""
-    },{
-      
+    },
+    {
       "name": "Sustainability tweeting triumphs during the COP events: analyzing environmental, social, and governance (ESG) communication on Twitter",
       "authors": "El Alfy, A., Quigley, J., Tang, L., Al Hariri, Y., & Weber, O. ",
       "publisher": "Journal of Asia Business Studies",
@@ -256,53 +258,31 @@
       "name": "Data Analysis",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Big data collection and mining",
-        "Quantitative and Qualitative analysis",
-        ""
-      ]
-    },{
+      "keywords": ["Big data collection and mining", "Quantitative and Qualitative analysis", ""]
+    },
+    {
       "name": "Data Visualization",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Plotly",
-        "Matplotlib",
-        "Seaborn",
-        "Gephi"
-      ]
-    },{
+      "keywords": ["Plotly", "Matplotlib", "Seaborn", "Gephi"]
+    },
+    {
       "name": "Information Retrieval and Management",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Data scrapping",
-        "API development",
-        "Apache Solr",
-        "MongoDB"
-      ]
-    },{
+      "keywords": ["Data scrapping", "API development", "Apache Solr", "MongoDB"]
+    },
+    {
       "name": "Social Network Analysis and Visualisations",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Networks analysis",
-        "Network visualization",
-        "Community detection",
-        "Gephi",
-        "NetworkX"
-      ]
-    },{
+      "keywords": ["Networks analysis", "Network visualization", "Community detection", "Gephi", "NetworkX"]
+    },
+    {
       "name": "Software Development",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Backend development",
-        "Frontend development",
-        "React JS",
-        "Node JS",
-        "Python"
-      ]
+      "keywords": ["Backend development", "Frontend development", "React JS", "Node JS", "Python"]
     }
   ],
   "languages": [
@@ -321,21 +301,17 @@
     {
       "name": "Data Science",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        ""
-      ]
-    },{
+      "keywords": [""]
+    },
+    {
       "name": "Text Technologies",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        ""
-      ]
-    },{
+      "keywords": [""]
+    },
+    {
       "name": "NLP",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        ""
-      ]
+      "keywords": [""]
     }
   ],
   "references": [
@@ -368,28 +344,32 @@
       "startDate": "2023-09-01",
       "endDate": "2024-03-31",
       "url": ""
-    },{
+    },
+    {
       "name": "Telling Good Stories",
       "summary": "Collect, store, process, and analyze tweets relevant to narratives of compassion and support during challenging times such as the Covid-19 pandemic.",
       "highlights": ["Social media", "Data analysis"],
       "startDate": "2022-01-01",
       "endDate": "2022-08-01",
       "url": ""
-    },{
+    },
+    {
       "name": "DIIL",
       "summary": "Build a scalable online social media analysis platform for monitoring public opinion over topics of interest, e.g., Brexit, Scottish referendum, and Covid-19 pandemic.",
       "highlights": ["Social media", "Data analysis"],
       "startDate": "2021-03-01",
       "endDate": "2021-11-01",
       "url": ""
-    },{
+    },
+    {
       "name": "Huawei",
       "summary": "To build an internal platform to monitor the public reviews on Huawei's products online.",
       "highlights": ["Social media", "Data analysis"],
       "startDate": "2020-08-01",
       "endDate": "2021-03-01",
       "url": ""
-    },{
+    },
+    {
       "name": "Yemen Crisis, UN",
       "summary": "Build a platform for collecting tweets about and from Yemen in Arabic to identify the locations and groups that are the most in-need so that the UN can provide immediate help.",
       "highlights": ["Social media", "Data analysis", "Social media for good", "crisis management"],

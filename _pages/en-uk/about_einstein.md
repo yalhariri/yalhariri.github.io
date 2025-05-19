@@ -1,4 +1,4 @@
-I am a postdoc Research Associate at the [School of Informatics](https://informatics.ed.ac.uk/), the University of Edinburgh. 
+I am a postdoc Research Associate at the [School of Informatics](https://informatics.ed.ac.uk/), the University of Edinburgh.
 I am a member at [SMASH Rsearch Group](http://smash.inf.ed.ac.uk/), [Neuropolitics Research Lab](https://neuropolitics.sps.ed.ac.uk/) and
 [Digital Influence & Intelligence Lab (DIIL)](https://diilglobal.org/).
 My research interests include computer social science, social and technological network analysis and data mining.

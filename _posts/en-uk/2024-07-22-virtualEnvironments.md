@@ -3,8 +3,8 @@ layout: post
 title: Adding Virtual Environment
 date: 2024-07-22 12:00:00
 description: Adding virtual environment with specific version of Python.
-tags: Virtual environments 
-categories: #Virtual environments 
+tags: Virtual environments
+categories: #Virtual environments
 thumbnail:
 align: lft
 dir: ltr
@@ -12,7 +12,6 @@ images:
   compare: true
   slider: true
 ---
-
 
 In this article, I will explain how to avoid the limitations associated with creating a virtual environment using a specific version of Python, particularly when root privileges are unavailable for installing that version. This guidance is essential for those needing to work within constrained software environments. This article provides useful steps to solve the failure of the following command:
 
@@ -52,21 +51,25 @@ source venv/bin/activate
 ```
 
 Now, to test the Python version in the virtual environment, we use the following command:
+
 ```
 python --version
 ```
 
 The expected output is something similar to the following:
+
 ```
 Python 3.8.##
 ```
 
 Where the 'hashes' refer to the Python's patch version number. To ensure that the current Python version is in the virtual environment (venv) and not located in another path, use the following command:
+
 ```
 which python
 ```
 
 The output should include the folder, where (venv) is the name of the virtual environment:
+
 ```
 ./venv/bin/python
 ```
