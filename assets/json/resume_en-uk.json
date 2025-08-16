@@ -24,11 +24,19 @@
   },
   "work": [
     {
+      "name": "Qualitrol Corporation",
+      "position": "ML/AI Engineer",
+      "url": "https://www.qualitrolcorp.com/",
+      "startDate": "2024-11-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["AI", "Large Language Models (LLMs)", "Data Science"]
+    },{
       "name": "School of Informactics, University of Edinburgh",
       "position": "Postdoctoral Research Associate (PDRA)",
       "url": "https://informatics.ed.ac.uk/",
       "startDate": "2024-08-01",
-      "endDate": "",
+      "endDate": "2025-03-01",
       "summary": "Project: Finding Adversary Narratives: Topic and Momentum (FANToM). \n To extend the features of the proposed tool to combine further state-of-the-art AI techniques to model and analyse the narratives of user interactions.",
       "highlights": ["Computational Social Science", "Data Science", "NLP"]
     },
