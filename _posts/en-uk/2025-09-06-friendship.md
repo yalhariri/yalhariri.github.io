@@ -17,11 +17,9 @@ images:
 __(An AI translation of the Arabic version)__
 
 My dear, know that companionship is influential. A friend can either lead you to good or pull you astray. Therefore, choose a companion who eases your path, guides you to goodness, and supports you in times of hardship.
-This is among the most important values emphasized by Islam, as affirmed in the Qur’an and the Prophetic traditions. Allah Almighty says: > **“Close friends, that Day, will be enemies to each other, except for the righteous.”**> \[Az-Zukhruf: 67][^1]
+This is among the most important values emphasized by Islam, as affirmed in the Qur’an and the Prophetic traditions. Allah Almighty says: **“Close friends, that Day, will be enemies to each other, except for the righteous.”** \[Az-Zukhruf: 67][^1]
 
-The Prophet ﷺ also said in the hadith of the seven whom Allah will shade on the Day when there is no shade but His:
-
-> **“Two men who love each other for the sake of Allah: they meet upon that and part upon that.”**[^2]
+The Prophet ﷺ also said in the hadith of the seven whom Allah will shade on the Day when there is no shade but His: **“Two men who love each other for the sake of Allah: they meet upon that and part upon that.”**[^2]
 
 In this hadith, the Prophet ﷺ urges all Muslims to carefully choose companions who will be beneficial both in this world and the Hereafter. A righteous companion is a source of benefit, while a corrupt one brings harm in both realms.
 
@@ -48,7 +46,7 @@ And do not assume that disparagement comes only from those below you, or that di
 
 Ironically, such people are well aware that sharing success and making it accessible to others—according to what is called the *Abundance vs. Scarcity Mindset*[^4]—is in fact a means to personal growth, enhanced success, and blessings in knowledge, wealth, and effort. Yet, they withhold it.
 
-The impact of success, however, can extend even beyond one’s lifetime. The Prophet ﷺ said: > **“When a man dies, his deeds come to an end except for three things: Sadaqah Jariyah (ceaseless charity); a knowledge which is beneficial, or a virtuous descendant who prays for him (for the deceased).”**[^5]
+The impact of success, however, can extend even beyond one’s lifetime. The Prophet ﷺ said: **“When a man dies, his deeds come to an end except for three things: Sadaqah Jariyah (ceaseless charity); a knowledge which is beneficial, or a virtuous descendant who prays for him (for the deceased).”**[^5]
 
 And as another narration emphasizes: *“indeed perhaps one present will inform one who understands better than him.”*[^6]
 
