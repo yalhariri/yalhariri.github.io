@@ -17,10 +17,7 @@ images:
 __(An AI translation of the Arabic version)__
 
 My dear, know that companionship is influential. A friend can either lead you to good or pull you astray. Therefore, choose a companion who eases your path, guides you to goodness, and supports you in times of hardship.
-This is among the most important values emphasized by Islam, as affirmed in the Qur’an and the Prophetic traditions. Allah Almighty says:
-
-> **“Close friends, that Day, will be enemies to each other, except for the righteous.”**
-> \[Az-Zukhruf: 67][^1]
+This is among the most important values emphasized by Islam, as affirmed in the Qur’an and the Prophetic traditions. Allah Almighty says: > **“Close friends, that Day, will be enemies to each other, except for the righteous.”**> \[Az-Zukhruf: 67][^1]
 
 The Prophet ﷺ also said in the hadith of the seven whom Allah will shade on the Day when there is no shade but His:
 
@@ -38,10 +35,7 @@ Here, I am reminded of Abu Bakr al-Siddiq (may Allah be pleased with him) and hi
 
 Is there any comparison between a friend who clarifies your doubts, takes your hand toward success out of love for you, and one who seizes every opportunity to weaken your resolve and turn you away from the path of achievement?
 
-Be cautious, for those who seek to harm or sabotage you rarely do so openly. Instead, they may disguise it under the guise of advice or concern. When Satan whispered to our forefather Adam and our mother Hawwa (Eve) to lead them out of Paradise, he swore that he was a sincere adviser:
-
-> **“And he swore \[by Allah] to them, ‘Indeed, I am to you from among the sincere advisors.’”**
-> \[Al-A‘raf: 21][^3]
+Be cautious, for those who seek to harm or sabotage you rarely do so openly. Instead, they may disguise it under the guise of advice or concern. When Satan whispered to our forefather Adam and our mother Hawwa (Eve) to lead them out of Paradise, he swore that he was a sincere adviser: > **“And he swore \[by Allah] to them, ‘Indeed, I am to you from among the sincere advisors.’”**> \[Al-A‘raf: 21][^3]
 
 Thus, you must remain vigilant. Strive to choose companions who inspire you to succeed, bring you peace of mind, and increase your self-appreciation—so that your journey toward success becomes a beautiful one, shared with sincere friends.
 
@@ -54,9 +48,7 @@ And do not assume that disparagement comes only from those below you, or that di
 
 Ironically, such people are well aware that sharing success and making it accessible to others—according to what is called the *Abundance vs. Scarcity Mindset*[^4]—is in fact a means to personal growth, enhanced success, and blessings in knowledge, wealth, and effort. Yet, they withhold it.
 
-The impact of success, however, can extend even beyond one’s lifetime. The Prophet ﷺ said:
-
-> **“When a man dies, his deeds come to an end except for three things: Sadaqah Jariyah (ceaseless charity); a knowledge which is beneficial, or a virtuous descendant who prays for him (for the deceased).”**[^5]
+The impact of success, however, can extend even beyond one’s lifetime. The Prophet ﷺ said: > **“When a man dies, his deeds come to an end except for three things: Sadaqah Jariyah (ceaseless charity); a knowledge which is beneficial, or a virtuous descendant who prays for him (for the deceased).”**[^5]
 
 And as another narration emphasizes: *“indeed perhaps one present will inform one who understands better than him.”*[^6]
 
