@@ -1,9 +1,9 @@
 ---
 layout: post
-title: انتقاء الصاحب وأثره في النجاح
+title: Choosing Companions and Their Impact on Success
 
-date: 2025-08-16 12:00:00
-description: انتقاء الصاحب وأثره في النجاح
+date: 2025-09-06 12:00:00
+description: Choosing Companions and Their Impact on Success
 tags: Islam, Self-reflection, Habits
 categories: #Islam, Self-reflection, Habits
 thumbnail:
@@ -15,73 +15,66 @@ images:
 ---
 
 
-# انتقاء الصاحب وأثره في النجاح
+# Choosing Companions and Their Impact on Success
 
-واعلم يا بني أن الصاحب ساحب، فاختر صديقاً ييسر لك الدرب، ويدلك على الخير، ويبادلك المعروف عند الشدائد.
-وهذا من أهم ما دعا إليه الإسلام وعززته الآيات والأحاديث. قال تعالى:
+__(An AI translation of the Arabic version)__
 
-> **﴿الْأَخِلَّاءُ يَوْمَئِذٍ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا الْمُتَّقِينَ﴾**
-> \[الزخرف: 67]
+My dear, know that companionship is influential. A friend can either lead you to good or pull you astray. Therefore, choose a companion who eases your path, guides you to goodness, and supports you in times of hardship.
+This is among the most important values emphasized by Islam, as affirmed in the Qur’an and the Prophetic traditions. Allah Almighty says:
 
-وقال النبي صلى الله عليه وسلم في حديث السبعة الذين يظلهم الله في ظله يوم لا ظل إلا ظله:
+> **“Close friends, that Day, will be enemies to each other, except for the righteous.”**
+> \[Az-Zukhruf: 67][^1]
 
-> **"ورجلان تحابا في الله اجتمعا عليه وتفرقا عليه"**[^2]
+The Prophet ﷺ also said in the hadith of the seven whom Allah will shade on the Day when there is no shade but His:
 
-وفي هذا الحديث يحث النبي صلى الله عليه وسلم المسلمين جميعاً على انتقاء الصاحب الذي ينفع في الدنيا والآخرة. فالصالح نافع، والسيئ مُضر في الدنيا والآخرة.
+> **“Two men who love each other for the sake of Allah: they meet upon that and part upon that.”**[^2]
 
----
+In this hadith, the Prophet ﷺ urges all Muslims to carefully choose companions who will be beneficial both in this world and the Hereafter. A righteous companion is a source of benefit, while a corrupt one brings harm in both realms.
 
-## أثر الرفيق في الطريق
 
-فرفيق الدرب إما أن يكون مشجعاً، أو مثبطاً. قد يكون معيناً لك على بلوغ المعالي وصعود القمم وتجاوز العقبات، وقد يكون سبباً في تعقيد الطريق وتضخيم الأعباء وتثبيط العزائم وتجميل الخسارة.
 
-ويحضرني هنا اهتمام الصديق رضي الله عنه وتمسكه برفقة النبي صلى الله عليه وسلم في أحواله كلها، بل والأسمى من ذلك سعي النبي صلى الله عليه وسلم إلى تعاهد رفيقه واختياره له في رحلة الهجرة والمكوث في الغار. فما أسمى تلك العلاقة السامية التي نال بها الصديق رضي الله عنه شرف الصحبة في مكة والمدينة ورحلة الهجرة.
+A companion on life’s journey will either be an encourager or a discourager. He may help you rise to noble heights, scale summits, and overcome obstacles—or he may complicate your path, magnify your burdens, weaken your resolve, and beautify failure.
 
----
+Here, I am reminded of Abu Bakr al-Siddiq (may Allah be pleased with him) and his devotion to the companionship of the Prophet ﷺ in all circumstances. Greater still is the Prophet’s own care in choosing him as his companion during the migration to Madinah and their stay together in the cave. How sublime was that noble bond, granting Abu Bakr the honor of companionship in Makkah, in Madinah, and on the blessed migration itself.
 
-## صديق نافع وصديق مثبط
 
-فهل يستوي صديق يوضح لك ما أشكل عليك، ويأخذ بيدك إلى النجاح محبة بك، مع من يستغل الفرص لتثبيط عزيمتك وإبعادك عن درب النجاح؟
 
-واحذر، فمن يسعى إلى التدمير أو الإفشال لا يصرح لك بذلك صراحة، بل قد يُظهر النصح والاهتمام. فعندما وسوس الشيطان لآبينا آدم وأمنا حواء ليخرجهما من الجنة، أقسم لهما أنه ناصح:
+Is there any comparison between a friend who clarifies your doubts, takes your hand toward success out of love for you, and one who seizes every opportunity to weaken your resolve and turn you away from the path of achievement?
 
-> **﴿وَقَاسَمَهُمَا إِنِّي لَكُمَا لَمِنَ النَّاصِحِينَ﴾**
-> \[الأعراف: 21]
+Be cautious, for those who seek to harm or sabotage you rarely do so openly. Instead, they may disguise it under the guise of advice or concern. When Satan whispered to our forefather Adam and our mother Hawwa (Eve) to lead them out of Paradise, he swore that he was a sincere adviser:
 
-لذلك عليك أن تأخذ حذرك، وأن تحرص على انتقاء صحبة تعزز فيك الرغبة للنجاح، وتريح نفسك، وتزيد من محبتك لذاتك، ليكون سعيك للنجاح رحلة جميلة مع رفاق صادقين.
+> **“And he swore \[by Allah] to them, ‘Indeed, I am to you from among the sincere advisors.’”**
+> \[Al-A‘raf: 21][^3]
 
----
+Thus, you must remain vigilant. Strive to choose companions who inspire you to succeed, bring you peace of mind, and increase your self-appreciation—so that your journey toward success becomes a beautiful one, shared with sincere friends.
 
-## المثبطون والانتقاص
 
-واحذر أن ترخي سمعك للمثبطين، أو تُظهر لهم ضعفك وكدرك. فإن فعلت، كنت تكافئهم وتدخل السرور على قلوبهم، والخاسر الوحيد حينها هو أنت.
+Beware of lending your ear to those who discourage you, or of revealing your distress before them. If you do, you reward them and gladden their hearts—while the only loser is you.
 
-ولا تظن أن الانتقاص لا يأتي إلا ممن هو أدنى منك، أو أن التثبيط سببه تفوقك ونجاحك. فقد يكون الدافع غير مفهوم ولا مبرر له. بل قد يكون المثبط قدوة في المجتمع ومثالاً للنجاح، لكنه لا يتورع عن إحباط عزائم السالكين إلى درب النجاح. وكأنهم يريدون حصر النجاح في أنفسهم ومن يحبون، ولا يرضون بمشاركة قصص النجاح مع الآخرين إلا إن كان لهم فيها النصيب الأوفر.
+And do not assume that disparagement comes only from those below you, or that discouragement arises solely from your superiority or success. Sometimes, the motive is unclear and unjustified. At times, the discourager may even be regarded as a role model or a symbol of success in society. Yet such a person may not hesitate to weaken the determination of those striving behind him. It is as though he seeks to monopolize success for himself and his circle, refusing to share inspiring stories of achievement with others—unless he himself secures the greater share of it.
 
----
 
-## نظرية الوفرة والندرة
 
-ومع أنهم يعلمون أن مشاركة النجاح وتيسيره على الآخرين، وفق ما يسمى بـ *نظرية الوفرة والندرة*[^4]، هو وسيلة لتعزيز النجاح الذاتي، وجلب البركة في العلم والمال والجهد، إلا أنهم يحجبونه.
+Ironically, such people are well aware that sharing success and making it accessible to others—according to what is called the *Abundance vs. Scarcity Mindset*[^4]—is in fact a means to personal growth, enhanced success, and blessings in knowledge, wealth, and effort. Yet, they withhold it.
 
-بل إن أثر النجاح يمتد حتى بعد الوفاة، لقول النبي صلى الله عليه وسلم:
+The impact of success, however, can extend even beyond one’s lifetime. The Prophet ﷺ said:
 
-> **"إذا مات ابن آدم انقطع عمله إلا من ثلاث: صدقة جارية، أو علم يُنتفع به، أو ولد صالح يدعو له"**[^5]
+> **“When a man dies, his deeds come to an end except for three things: Sadaqah Jariyah (ceaseless charity); a knowledge which is beneficial, or a virtuous descendant who prays for him (for the deceased).”**[^5]
 
-ورب مبلغ أوعى من سامع[^6].
+And as another narration emphasizes: *“indeed perhaps one present will inform one who understands better than him.”*[^6]
 
 ---
 
-## الهوامش
+## References
 
-[^1]: الآية 67 من سورة الزخرف.
+[^1]: Qur’an, Surah Az-Zukhruf, verse 67.
 
-[^2]: عن أبي هريرة رضي الله عنه قال: قال رسول الله صلى الله عليه وسلم: *"سَبْعَةٌ يُظِلُّهُمُ اللَّهُ تَعَالَى في ظِلِّهِ يَومَ لا ظِلَّ إلَّا ظِلُّهُ: إمَامٌ عَدْلٌ، وشَابٌّ نَشَأَ في عِبَادَةِ اللَّهِ، ورَجُلٌ قَلْبُهُ مُعَلَّقٌ في المَسَاجِدِ، ورَجُلَانِ تَحَابَّا في اللَّهِ اجْتَمعا عليه وتَفَرَّقَا عليه، ورَجُلٌ دَعَتْهُ امْرَأَةٌ ذَاتُ مَنْصِبٍ وجَمَالٍ فَقالَ: إنِّي أَخَافُ اللَّهَ، ورَجُلٌ تَصَدَّقَ بصَدَقَةٍ فأخْفَاهَا حتَّى لا تَعْلَمَ شِمَالُهُ ما تُنْفِقُ يَمِينُهُ، ورَجُلٌ ذَكَرَ اللَّهَ خَالِيًا فَفَاضَتْ عَيْنَاهُ"* رواه البخاري ومسلم.
+[^2]: Narrated by Abu Huraira: The Prophet ﷺ said, *“Seven will be shaded by Allah under His shade on the Day when there will be no shade except His: a just ruler; a youth who grows up in the worship of Allah; a man whose heart is attached to the mosques; two men who love each other for the sake of Allah, meeting and parting upon that; a man who is called by a woman of status and beauty, and says, ‘I fear Allah’; a man who gives charity so secretly that his left hand does not know what his right hand has given; and a man who remembers Allah in solitude, and his eyes overflow with tears.”* Narrated by al-Bukhari and Muslim.
 
-[^3]: سورة الأعراف، الآية 21.
+[^3]: Qur’an, Surah Al-A‘raf, verse 21.
 
-[^4]: نظرية الوفرة والندرة: الوفرة تعني الاعتقاد بوجود فرص وخيرات تكفي الجميع، بينما الندرة تعني أن النجاح والموارد محدودة لا ينالها إلا قلة.
+[^4]: The Abundance vs. Scarcity Mindset: *Abundance* is the belief that opportunities and blessings are sufficient for everyone, while *Scarcity* is the belief that resources are limited and one’s success comes only at the expense of others.
 
-[^5]: رواه مسلم.
+[^5]: Narrated by Muslim.
 
-[^6]: أخرجه البخاري عن عبد الله بن عمر رضي الله عنهما.
+[^6]: Narrated by al-Bukhari from Abdullah ibn Umar (may Allah be pleased with them both).

@@ -7,7 +7,7 @@ description: المجتمعات العربي في دراسات الباحثين 
 tags: Family, Communities, Relationships
 categories: #Family, Communities, Relationships, Islam
 thumbnail:
-align: lft
+align: right
 dir: ltr
 images:
   compare: true

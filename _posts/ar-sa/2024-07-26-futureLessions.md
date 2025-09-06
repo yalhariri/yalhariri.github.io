@@ -6,7 +6,7 @@ description: الخسارة ... خير الدروس لمستقبل أفضل
 tags: Self-reflection
 categories: #Self-reflection, Habits
 thumbnail:
-align: lft
+align: right
 dir: ltr
 images:
   compare: true

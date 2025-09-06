@@ -6,7 +6,7 @@ description: إضافة بيئة افتراضية إلى النظام باستخ
 tags: Virtual environments
 categories: #Virtual environments
 thumbnail:
-align: lft
+align: right
 dir: ltr
 images:
   compare: true

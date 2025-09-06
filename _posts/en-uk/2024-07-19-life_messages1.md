@@ -6,7 +6,7 @@ description: (Messages) You can't control the wind, but you can adjust the sails
 tags: Self-reflection
 categories: #Self-reflection, Habits, Personal development
 thumbnail:
-align: right
+align: left
 dir: rtl
 images:
   compare: true

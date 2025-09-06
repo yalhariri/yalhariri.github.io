@@ -7,7 +7,7 @@ description:  تغيير إدارة البيئة الافتراضية من Conda
 tags: Virtual environments
 categories: #FVirtual environments
 thumbnail:
-align: lft
+align: right
 dir: ltr
 images:
   compare: true
