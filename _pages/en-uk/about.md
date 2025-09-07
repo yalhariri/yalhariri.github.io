@@ -19,11 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
  
-I am a Machine Learning and AI Engineer at [Qualitrol Corporation](https://www.qualitrolcorp.com/), where I help drive innovation through Generative AI and Large Language Models (LLMs). My hands-on experience includes:
-
-  - RAG & CAG pipelines
-  - Prompt engineering
-  - Cloud-native deployments across major platforms
+I am a Machine Learning and AI Engineer at [Qualitrol Corporation](https://www.qualitrolcorp.com/), where I help drive innovation through Generative AI and Large Language Models (LLMs). My hands-on experience includes: RAG & CAG pipelines, Prompt engineering, and Cloud-native deployments across major platforms.
 
 I have a strong background in technical computing and analytics, with experience across both academia and global industry. In a recent role at an international company, I developed chatbots and RAG/CAG systems, fine-tuned pretrained LLMs, and automated processes for customer support, developer assistance, and report generation. These solutions significantly boosted team productivity by enhancing engagement and reducing manual efforts.
 
