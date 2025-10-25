@@ -17,115 +17,104 @@ images:
 __(An AI translation of the Arabic version)__
 
 
-Many of us strive repeatedly to improve our path and move closer to success—sometimes through deliberate planning, and sometimes by instinct. Yet, discipline and commitment remain the two most powerful keys to success after setting a realistic plan. Whether that success is academic, professional, physical, or social, every form of achievement requires a clear plan and a steady effort pursued without fatigue or frustration.
+Many of us repeatedly try to improve our direction and move closer to success. Sometimes through deliberate planning, sometimes by instinct. After a realistic plan, discipline and commitment are the two most powerful keys to achievement. Whether that success is academic, professional, physical, or social, every form of progress needs a clear plan and steady effort pursued without fatigue or frustration.
 
-Do you seek success in your studies? A healthier, more active body? Or perhaps financial growth and stability? It all begins with a plan—and more importantly—with the discipline to follow through. True discipline comes not from external pressure, but from within, renewed each time you drift away from your goals. The journey of success is never a straight climb—it’s a series of rises and falls.
-To strengthen your self-discipline, I’ve summarized below several principles—tested personally and supported by research—that have proven effective time and again.
+Whether you want success in your studies, to follow a healthier lifestyle, to perform routine exercises, or to achieve financial stability. It all begins with a plan and, more importantly, the discipline to follow through. True discipline arises from within and must be renewed whenever you drift from your goals. The journey of success is not a straight climb; it is a series of rises and falls. To strengthen your self-discipline, here are several principles, I tested personally and supported by research studies that consistently prove effective.
 
----
 
 ### **1. Write down your goals and tasks clearly**
 
-Create a clear and actionable plan of intention—one that allows you to begin a task immediately without hesitation or the need for further decision-making. The more specific and well-linked your task is, the more likely you are to stay committed and succeed.
+Create a clear, actionable plan that lets you start a task immediately without further decision-making. The more specific and well-linked your plan is, the more likely you are to stay committed and succeed.
 
-As James Clear explains in his book *Atomic Habits*, an “implementation intention” can be expressed as follows:
+As James Clear explains in Atomic Habits, an implementation intention can be expressed this way:
 
-> `I will [behavior] at [time] in [place].`
+`I will [behavior] at [time] in [place].`
 
-This simple plan carries within it a powerful sense of commitment—anchored in time and place, and integrated into the rhythm of your daily life.
+This simple plan carries a powerful sense of commitment—anchored in time and place and integrated into your daily rhythm.
 
----
+
 
 ### **2. Link new habits to existing ones**
 
-One of the most effective ways to maintain commitment to a new activity is to anchor it to an existing habit—something familiar that you already do without much thought or resistance. While this approach might seem demanding at first, its impact on strengthening consistency is both evident and well-documented through experience.
+Anchor a new activity to an existing habit—something you already do with little resistance. Although setting this up can feel demanding at first, its impact on consistency is profound.
 
-You can expand your plan of action using the following model:
+You can expand the implementation intention like this:
 
-> `I will [behavior] at [time] and [place] after [previous habit] and before [next habit].`
+`I will [behavior] at [time] and [place] after [previous habit] and before [next habit].`
 
-This structured approach reduces mental friction and makes transitioning between tasks smoother and more automatic. When activities are connected sequentially, you move from one to the next almost effortlessly—without overthinking or hesitation. If your previous and following tasks are already part of your routine, the new habit fits in naturally and becomes easier to sustain.
 
-Remember, though, that **rest is also part of discipline**. Just as you plan your work, plan your breaks—moments to recharge and restore balance, ensuring that your persistence remains steady and sustainable.
+This structure reduces mental friction and makes transitions smoother and more automatic. When activities are connected sequentially, you move from one to the next almost effortlessly. If the surrounding tasks are already part of your routine, the new habit fits in naturally and becomes easier to sustain.
 
----
+Remember that rest is also part of discipline. Plan breaks to recharge so your persistence remains steady and sustainable.
+
+
 
 ### **3. The Five-Second Rule**
 
-In her book *The 5 Second Rule*, Mel Robbins introduces a remarkably simple yet powerful method: counting down from five to one. Multiple studies and real-world experiences confirm its effectiveness in boosting action and productivity—whether it’s getting out of bed, starting a project, or committing to a daily workout.
+Mel Robbins’ Five-Second Rule uses a simple countdown—5, 4, 3, 2, 1—to trigger immediate action. It works by creating instant momentum: the countdown shifts your brain into execution mode and reduces hesitation and procrastination.
 
-The rule works by triggering immediate mental activation. When you start counting down—5, 4, 3, 2, 1—your brain switches into execution mode, reducing the chance of hesitation or procrastination. The key is to act immediately once the count ends—without giving yourself time to rethink or justify.
-Repeating the countdown or hesitating defeats its very purpose. Its essence lies in **instant momentum**—that brief psychological spark that propels you into action before your mind talks you out of it.
+The key is to act immediately once the count ends—without giving yourself time to justify or delay. Repeating the countdown or hesitating defeats the rule’s purpose. Its essence is instant activation that propels you into action before doubt intervenes.
 
----
+
 
 ### **4. Let your results speak for you**
 
-Avoid talking about your plans or ambitions—let your accomplishments do the talking. Share your goals only with those who can offer sincere guidance or constructive feedback. Talking too soon about your intentions can trick your brain into feeling rewarded before you’ve even begun, draining the motivation to act.
+Avoid announcing every plan or ambition—let your accomplishments speak. Share goals only with those who will give sincere guidance or constructive feedback. Talking too soon can trick your brain into feeling rewarded before you’ve begun, draining motivation.
 
-Worse yet, repeated talk without execution creates an image of empty promises—both in your mind and in the eyes of others. Spare yourself that pressure. Work quietly, and let your progress announce itself. Silent success speaks louder than a thousand declared intentions.
+Repeated talk without execution creates an image of empty promises—both in your mind and in the eyes of others. Work quietly and let progress announce itself. Silent success speaks louder than a thousand declared intentions.
+
 
 
 ### **5. Start small—really small**
 
-Build your success through a series of tiny, almost invisible wins. Remember, the human body is built from microscopic cells, and even towering mountains are formed from weightless grains of sand.
+Build success through tiny, almost invisible wins. Even the largest structures are the sum of minute parts.
 
-Carrying a mountain is impossible—but stacking its grains is not. So too are your goals: achievable through consistent, gradual effort.
+Want a reading habit? Start with a single page a day. Want to become a writer? Read a page, then write 50 words daily, linked to an existing habit such as your morning coffee or your evening wind-down.
 
-Want to develop a reading habit? Start with a single page a day.
-Want to become a writer? Read a page, then write 50 words daily. Link these habits to something you already do—like sipping your morning coffee or winding down before bed.
+Over time your writing will flow more naturally, your thinking will sharpen, and your efforts will compound. In time you may do in a single evening what once took you a week. Avoid chasing perfection at the start; a marathon in week one of exercise can do more harm than good. Start light, stay consistent, and let growth follow.
 
-Over time, your writing will flow naturally, your thoughts sharpen, and your efforts multiply. You’ll find yourself doing in one night what once took a week.
-Avoid chasing perfection at the start—running a marathon in your first week of exercise might do more harm than good. Start light, stay consistent, and let growth follow.
 
 
 ### **6. Make your progress visible**
 
-Track your achievements—no matter how small. Keep a visible record on a wall calendar or planner in your most frequented space: your office desk, living room, or beside your TV.
+Track achievements, however small. Keep a visible record on a wall calendar or planner where you spend most of your time: your desk, living room, or beside the TV.
 
-Seeing your progress builds motivation and strengthens commitment. Mark the days you succeed and note the reasons behind any setbacks—this awareness fuels improvement. Over time, those visual chains of progress will inspire you not to “break the streak.”
-Consistency, not perfection, creates momentum.
+Seeing progress builds motivation and strengthens commitment. Mark the days you succeed and note reasons for setbacks—this awareness fuels improvement. Over time, visible chains of progress will inspire you not to break the streak. Consistency, not perfection, creates momentum.
 
 
 
 ### **7. Stay away from what drains your energy**
 
-People, places, and situations can all influence your behavior—either lifting you up or pulling you back. A certain place might remind you of past failure, while a friend might unknowingly disrupt your routine or self-discipline.
+People, places, and situations influence behavior—either lifting you or pulling you back. A location might remind you of past failure; a friend might unintentionally disrupt your routine.
 
-The best strategy is to avoid triggers before they arise. Eliminate distractions and minimize exposure to what discourages you.
-Remember, success is not only about what you do—it’s equally about what you avoid. Protecting your focus is an act of discipline in itself.
-
+A good strategy is to minimize exposure to triggers before they arise. Eliminate distractions and reduce contact with what discourages you. Success is not only what you do—it’s also what you avoid. Protecting your focus is an act of discipline.
 
 
-### **8. Use positive language—words shape your mindset**
 
-Notice the difference between saying *I have to* and *I’m used to*.
+### **8. Use positive language—words shape mindset**
 
-Viewing tasks as burdens builds resistance, but framing them as choices or habits reinforces empowerment and reward.
+Notice the difference between saying I have to and I’m used to.
 
-For instance, instead of saying, “I can’t afford that,” reframe it as, “I’m choosing to invest my money differently.” This subtle shift transforms the feeling of deprivation into one of control and purpose.
+Framing tasks as burdens builds resistance; framing them as choices or habits reinforces empowerment. Instead of saying “I can’t afford that,” try “I’m choosing to invest my money differently.” This subtle shift turns deprivation into control and purpose.
 
-The same applies to fitness or health commitments. Instead of viewing exercise as self-denial, see it as a daily investment in your future health and vitality.
-Changing your vocabulary isn’t linguistic vanity—it’s a mental strategy that reprograms how you perceive effort, reward, and growth.
+The same applies to fitness or health commitments. Instead of viewing exercise as denial, see it as an investment in future health and vitality. Changing vocabulary is not mere linguistic vanity; it is a mental strategy that reshapes how you perceive effort, reward, and growth.
 
 
 
 ### **9. Don’t wait for perfect readiness—just start**
 
-Stop waiting for the `right time.` Most successful people look back at their beginnings with a smile—they started imperfectly but consistently. Prepare what you can, do your best with what you have, and take action today.
+Stop waiting for the right time. Most successful people look back and smile at imperfect beginnings—they started consistently, not perfectly. Prepare what you can, do your best with what you have, and act today.
 
-You don’t need to be fluent, fully trained, or completely confident. The best time to start was yesterday. The next best time is now.
+You do not need full fluency, complete training, or total confidence to begin. The best time to start was yesterday; the next best time is now.
 
-As the scholar Al-Hasan Al-Basri said in *Kitab Al-Zuhd*:
+Arabic original of the quotation cited:
+`الدُّنْيَا ثَلَاثَةُ أَيَّامٍ: أَمَا أَمْسِ فَقَدْ ذَهَبَ بِمَا فِيهِ، وَأَمَّا غَدًا فَلَعَلَّكَ لَا تُدْرِكُهُ، وَالْيَوْمُ فَاعْمَلْ فِيهِ.`
 
-> `Life is but three days: yesterday has passed with all it held, tomorrow may never come, and today is all you truly have—so work in it.`
-
-Yesterday is gone, and tomorrow is uncertain—but today is yours to shape. Every delay is a missed opportunity to build the tomorrow you dream of.
+English rendering:
+Life is but three days: yesterday has gone with all it held, tomorrow you may not reach, and today is all you truly have—so work in it.
 
 
 
 ### **In the end: Discipline is a habit, not a talent**
 
-Ultimately, success belongs not to the most gifted, but to the most consistent.
-Self-discipline transforms intention into habit, and habit into achievement.
-It’s not an inborn talent—it’s a cultivated skill, built through small steps, sincere perseverance, and a continuously positive vision.
+Research and experience agree: success favors the most consistent, not necessarily the most gifted. Self-discipline turns intention into habit and habit into achievement. It is not an innate talent but a cultivated skill built through small steps, sincere perseverance, and a refreshed positive vision.
