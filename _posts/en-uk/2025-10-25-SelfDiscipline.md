@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Self-Discipline: A Journey That Begins with a Step and Culminates in Self-Actualization
+title: 'Self-Discipline: A Journey That Begins with a Step and Culminates in Self-Actualization'
 
 date: 2025-10-25 12:00:00
-description: Self-Discipline: A Journey That Begins with a Step and Culminates in Self-Actualization. __(An AI translation of the Arabic version)__
+description: 'Self-Discipline: A Journey That Begins with a Step and Culminates in Self-Actualization. __(An AI translation of the Arabic version)__'
 tags: Self-reflection, Habits
 categories: #Self-reflection, Habits
 thumbnail:
