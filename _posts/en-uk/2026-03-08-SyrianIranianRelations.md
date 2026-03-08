@@ -25,7 +25,7 @@ A closer analysis reveals that, for many Syrians, the distinction lies not merel
 
 ---
 
-## 1. The Nature of Influence: State Power vs. Proxy Networks
+##  1. The Nature of Influence: State Power vs. Proxy Networks
 
 Russia’s intervention in Syria, however destructive, largely fits within the familiar framework of great-power geopolitics. Moscow’s objectives were consistent with traditional strategic calculations: preserving influence in the Middle East, protecting a longstanding ally, and securing military access to the Mediterranean through its naval and air bases.
 
@@ -39,7 +39,7 @@ The structural implications of this approach are significant. Military bases can
 
 ---
 
-## 2. Identity, Society, and Demographic Concerns
+##  2. Identity, Society, and Demographic Concerns
 
 Another key distinction frequently cited by Syrians concerns the perceived impact of each intervention on the country’s social fabric.
 
@@ -57,7 +57,7 @@ As a result, many Syrians perceive Iranian influence not merely as a geopolitica
 
 ---
 
-## 3. International Frameworks vs. Regional Power Struggles
+##  3. International Frameworks vs. Regional Power Struggles
 
 Another distinction often cited relates to the broader political context in which each intervention occurred.
 
@@ -71,7 +71,7 @@ In this environment, Syrians often found themselves bearing the consequences of 
 
 ---
 
-## 4. Partnership vs. Structural Dependency
+##  4. Partnership vs. Structural Dependency
 
 For many Syrians, the final distinction lies in how each relationship might evolve in the future.
 
@@ -83,7 +83,7 @@ This distinction—between a geopolitical relationship and a deeply embedded ide
 
 ---
 
-## Conclusion
+##  Conclusion
 
 Syrians understand that politics is ultimately shaped by pragmatic calculations. Yet they also distinguish between different kinds of external influence.
 
