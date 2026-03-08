@@ -21,8 +21,6 @@ Below is a **fully refined, publication-ready version** of your article written 
 
 ---
 
-# Why Many Syrians May Accept Normalizing Relations with Russia but Reject any Level of Relation with Iran
-
 In recent debates about Syria’s future foreign relations, an apparent paradox often emerges. Many Syrians appear willing—at least politically, and sometimes even publicly—to contemplate normalizing relations with Russia, despite the devastating consequences of Russia’s military intervention against Syrian aspirations for freedom. Yet the same Syrians strongly reject any prospect of reconciliation or renewed engagement with Iran.
 
 At first glance, this position may appear contradictory. Both Russia and Iran intervened decisively in support of the Assad regime, and both played roles in the immense human and material devastation Syria has endured over the past decade. However, understanding Syrian attitudes requires moving beyond superficial comparisons and examining the deeper differences between the two interventions: their motivations, methods, and long-term implications.
